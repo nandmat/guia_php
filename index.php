@@ -59,6 +59,21 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>ARRAY</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
